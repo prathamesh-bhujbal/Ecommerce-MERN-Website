@@ -28,20 +28,20 @@ The MERN stack ensures a robust and modern architecture, making the platform eff
 Find all the dependencies in the `package.json` file.
 
 ## Code Examples
-# Clone repository
+ Clone repository
 gh repo clone prathamesh-bhujbal/Ecommerce-MERN-Website
 
-# Install all the dependencies
+ Install all the dependencies
 npm install
 
-# Add config.env file in the root directory with the following details
+ Add config.env file in the root directory with the following details
 echo "DATABASE=mongodb+srv://<username>:<password>@cluster0.qu8zntg.mongodb.net/SamarthLab" >> config.env
 echo "SECRET_KEY=<your secret key>" >> config.env
 
-# Start the server in the root directory
+ Start the server in the root directory
 npm start
 
-# Start frontend in the client directory
+ Start frontend in the client directory
 cd client
 npm start
 
