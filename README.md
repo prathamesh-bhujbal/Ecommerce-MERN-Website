@@ -29,21 +29,21 @@ Find all the dependencies in the `package.json` file.
 
 ## Code Examples
  Clone repository
-gh repo clone prathamesh-bhujbal/Ecommerce-MERN-Website
+   gh repo clone prathamesh-bhujbal/Ecommerce-MERN-Website
 
  Install all the dependencies
-npm install
+     `npm install`
 
- Add config.env file in the root directory with the following details
-echo "DATABASE=mongodb+srv://<username>:<password>@cluster0.qu8zntg.mongodb.net/SamarthLab" >> config.env
-echo "SECRET_KEY=<your secret key>" >> config.env
+ Add `config.env` file in the root directory with the following details
+     echo `"DATABASE=mongodb+srv://<username>:<password>@cluster0.qu8zntg.mongodb.net/SamarthLab" >> config.env
+           echo "SECRET_KEY=<your secret key>" >> config.env`
 
  Start the server in the root directory
-npm start
+    `npm start`
 
  Start frontend in the client directory
-cd client
-npm start
+   `cd client`
+   `npm start`
 
 
 # Contact
