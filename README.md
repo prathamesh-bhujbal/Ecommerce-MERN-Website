@@ -1,5 +1,5 @@
 # Ecommerce-App
-Complete mern stack ecommerce project 2023 complete code
+Complete mern stack ecommerce project.
 
 ## Overview
 
