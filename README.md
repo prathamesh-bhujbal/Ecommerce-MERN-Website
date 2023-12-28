@@ -28,8 +28,6 @@ The MERN stack ensures a robust and modern architecture, making the platform eff
 Find all the dependencies in the `package.json` file.
 
 ## Code Examples
-
-```bash
 # Clone repository
 gh repo clone prathamesh-bhujbal/Ecommerce-MERN-Website
 
@@ -46,3 +44,12 @@ npm start
 # Start frontend in the client directory
 cd client
 npm start
+
+
+# Contact
+
+For inquiries or collaboration opportunities, feel free to reach out on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhujbal%20Prathamesh-blue)](https://www.linkedin.com/in/bhujbal-prathamesh-633a28230/)
+
+[Bhujbal Prathamesh](https://www.linkedin.com/in/bhujbal-prathamesh-633a28230/)
