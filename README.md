@@ -1,6 +1,7 @@
 # Ecommerce-App
 Complete mern stack ecommerce project.
-[Link](https://tame-teal-loafers.cyclic.app/)
+
+[Visit my website](https://tame-teal-loafers.cyclic.app/)
 
 ## Overview
 
